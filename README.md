@@ -1,9 +1,82 @@
-<h1 hizalama = "merkez" > SelamunAleykum 👋, ben Taruk < / h1 >
-<p hizalama = "sol" > <img src = "https://komarev.com/ghpvc/?username=taruk21&label=Profile%20views&color=818588&style=flat" alt =" taruk21 "/ > < / p >
+<br clear="both">
 
-<h3 align = "left" > Benimle bağlantı kurun: < / h3 >
-<p hizalama = "sol" >
-< / p >
+<h2 align="left">Selamünaleyküm 👋!</h2>
 
-<h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
-<p hizalama = "sol" > <bir href = "https://developer.android.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt =" android "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.arduino.cc/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt =" arduino "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.gnu.org/software/bash/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt = "bash" genişliği = "40" yükseklik = "40" / > < / a > <bir href = "https://www.cprogramming.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt =" c "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.w3schools.com/cpp/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt =" cplusplus "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <a href = "https://www.w3schools.com/css/" hedef = "_blank" rel = "noreferrer" > <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt =" css3 "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://dart.dev" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt =" dart "genişliği =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.djangoproject.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://cdn.worldvectorlogo.com/logos/django.svg" alt =" django "genişlik ="40 "yükseklik =" 40 "/ > < / a > <bir href = "https://firebase.google.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt =" ateş tabanı "genişliği =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://flutter.dev" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt =" çarpıntı "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://git-scm.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone / logolar / git-scm / git-scm-icon.svg "alt =" git "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.w3.org/html/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt =" html5 "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.java.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt =" java "genişliği =" 40 "yükseklik =" 40 "/ > < / a > <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript "hedef =" _blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt =" javascript "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://kotlinlang.org" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt =" kotlin "genişliği =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.linux.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com / devicons / devicon / master / icons / linux / linux-original.svg "alt =" linux "genişlik =" 40 "/ = < / a > <bir href = "https://www.microsoft.com/en-us/sql-server" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt =" mssql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.mysql.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt =" mysql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <href = "https://nodejs.org" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt =" nodejs "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.postgresql.org" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt =" postgresql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.python.org" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com / devicons / devicon / master / icons / python / original.svg "alt =" python "genişlik =" 40 "yükseklik =" / > < / a > <bir href = "https://unity.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt =" birlik "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://unrealengine.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt =" gerçek dışı "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Taruk21/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/69/55/b6/6955b64936e7c3dd5e69b676e4179dfd.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="40" alt="godot logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/bejvumcv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/maxen_2?igsh=dnRrMXdkdXNuZW11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Taruk21/Taruk21/output/snake.svg" alt="Snake animation" />
+
+###
