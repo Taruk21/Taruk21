@@ -3,8 +3,6 @@
 
 <h3 align = "left" > Benimle bağlantı kurun: < / h3 >
 <p hizalama = "sol" >
-<bir href = "https://instagram.com/maxen_2" hedef =" boş ">< img hizalama =" merkez "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" "maxen_2" yükseklik = "30" genişlik = / =
-<bir href = "https://discord.gg/813679076300029962" hedef =" boş "><img align = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt =" 813679076300029962 "yükseklik =" 30 "genişlik = / ><
 < / p >
 
 <h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
