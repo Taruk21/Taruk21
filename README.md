@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Taruk21/Taruk21/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Taruk21/Taruk21/output/snake.svg](https://github.com/Taruk21/Taruk21/blob/c05e053a5b68e8c74d2b334586e1bf1ecb6ed611/.github/workflows/snake.yml)" alt="Snake animation" />
 
 ###
