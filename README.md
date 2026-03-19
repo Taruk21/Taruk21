@@ -11,3 +11,8 @@ Selamunaleyküm👋🏻
    |__/ \_______/|__/       \______/ |__/  \__/                                             
                                                                
 ```
+<h2></h2>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
