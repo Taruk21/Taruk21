@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Taruk21">
-    <img src="./id-card-s1.svg" alt="Muhammed Taruk - ID Card" width="400" />
+    <img src="svg/id-card-s1.svg" alt="Muhammed Taruk - ID Card" width="400" />
   </a>
 </div>
 <h2></h2>
